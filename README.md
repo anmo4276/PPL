@@ -3,13 +3,21 @@ PRINCIPLES OF PROGRAMMING LANGUAGE - CSCI 3155
 Topics Covered
 --------------
 Introduction to Programming in Scala.
+
 Inductive Definitions
+
 Operating on Inductive Definitions
+
 Interpreter for a Basic Language.
+
 Interpreter with Function Calls: Variable Scoping and Recursion.
+
 Dealing with mutable data/state.
+
 Type System: Type checking and type inference.
+
 Objects and Inheritance. Abstract classes and Traits.
+
 Advanced Topics (if time permits): Concurrency.
 
 Learning Goals
